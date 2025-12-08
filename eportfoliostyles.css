@@ -53,6 +53,7 @@ nav ul {
   gap: 30px;
   list-style: none;
   padding-left: 0;
+  background-color: Thistle;
   border-top: 1px solid DarkOrchid;
   border-bottom: 1px solid DarkOrchid;
 }
