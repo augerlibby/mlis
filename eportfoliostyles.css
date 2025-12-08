@@ -1,1 +1,91 @@
+h1#site-title {
+  font-size: 48px;
+  letter-spacing: -3px;
+  margin-top: 0;
+  margin-bottom: .125em;
+  text-align: center;
+color: darkolivegreen;
+  font-family: Verdana;
+}
 
+article {
+ text-align: center;
+ margin-left: auto;
+}
+
+h1#article-title {
+ font-size: 28px;
+ text-align: center;
+}
+
+h2#article-title {
+  font-size: 28px;
+  text-align: center;
+}
+
+h3#article-title {
+  font-size: 28px;
+  text-align: center;
+}
+  
+p {
+  color: #13174A;
+  text-align: left;
+  margin: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+figure.main-image {
+  float: middle;
+  width: 100%;
+  height: auto;
+}
+
+a {
+  font-weight: bold;
+  color: black;
+}
+
+nav ul {
+  display:flex;
+  justify-content: center;
+  gap: 30px;
+  list-style: none;
+  padding-left: 0;
+  border-top: 1px solid darkolivegreen;
+  border-bottom: 1px solid darkolivegreen;
+}
+
+nav ul li {
+
+}
+
+nav ul li a {
+  color: darkolivegreen;
+  text-decoration: none;
+  padding: 12px;
+  border-bottom: 1px solid darkolivegreen;
+  display: block;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+nav ul li a:hover {
+  border-bottom: 3px solid darkolivegreen; 
+  padding-bottom: 9px;
+}
+
+footer#page-footer {
+  display: block;
+  padding: 32px 0;
+  margin-top: 64px;
+  text-align: center;
+  background-color: darkolivegreen;
+  text-color: white; 
+  position: bottom;
+  display: flex;
+  justify-content: space-between;
+}
