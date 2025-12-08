@@ -53,8 +53,8 @@ nav ul {
   gap: 30px;
   list-style: none;
   padding-left: 0;
-  border-top: 1px solid darkolivegreen;
-  border-bottom: 1px solid darkolivegreen;
+  border-top: 1px solid DarkOrchid;
+  border-bottom: 1px solid DarkOrchid;
 }
 
 nav ul li {
@@ -62,10 +62,10 @@ nav ul li {
 }
 
 nav ul li a {
-  color: darkolivegreen;
+  color: DarkOrchid;
   text-decoration: none;
   padding: 12px;
-  border-bottom: 1px solid darkolivegreen;
+  border-bottom: 1px solid DarkOrchid;
   display: block;
   text-transform: uppercase;
   font-size: 14px;
@@ -74,7 +74,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  border-bottom: 3px solid darkolivegreen; 
+  border-bottom: 3px solid DarkOrchid; 
   padding-bottom: 9px;
 }
 
@@ -83,7 +83,7 @@ footer#page-footer {
   padding: 32px 0;
   margin-top: 64px;
   text-align: center;
-  background-color: darkolivegreen;
+  background-color: DarkOrchid;
   text-color: white; 
   position: bottom;
   display: flex;
