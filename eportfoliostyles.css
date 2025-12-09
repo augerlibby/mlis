@@ -93,6 +93,7 @@ footer#page-footer {
   background-color: Thistle;
   text-color: FloralWhite; 
   position: bottom;
+  position: fixed;
   display: flex;
   justify-content: space-between;
 }
