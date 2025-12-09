@@ -80,6 +80,8 @@ nav ul li a:hover {
   padding-bottom: 9px;
 }
 
+body {background-color: FloralWhite;}
+
 footer#page-footer {
   display: block;
   padding: 32px 0;
@@ -91,5 +93,3 @@ footer#page-footer {
   display: flex;
   justify-content: space-between;
 }
-
-body {background-color: FloralWhite;}
