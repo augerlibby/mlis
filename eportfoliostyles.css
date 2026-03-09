@@ -34,6 +34,7 @@ p {
   margin: 30px;
   padding-left: 75px;
   padding-right: 75px;
+  float: middle;
 }
 
 figure.main-image {
