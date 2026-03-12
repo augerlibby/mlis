@@ -40,6 +40,10 @@ p {
   float: middle;
 }
 
+div {
+  text-align: justify;
+}
+
 figure.main-image {
   float: middle;
   width: 100%;
