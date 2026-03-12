@@ -31,7 +31,10 @@ h3#article-title {
 p {
   color: #13174A;
   text-align: center;
-  margin: 30px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
   padding-left: 75px;
   padding-right: 75px;
   float: middle;
