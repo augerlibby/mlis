@@ -27,10 +27,15 @@ h3#article-title {
   font-size: 28px;
   text-align: center;
 }
-  
+
+<style>
+
 p {
+   width: 250px;
   color: #13174A;
+  font-size: 16px;
   text-align: center;
+  text-align-last:;
   margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 150px;
@@ -39,6 +44,8 @@ p {
   padding-right: 75px;
   float: middle;
 }
+
+</style>
 
 div {
   text-align: justify;
