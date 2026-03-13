@@ -69,7 +69,7 @@ div {
   margin: 0 auto
   max-inline-size: 800px;
   text-wrap: balance
-  text-align: center;
+  text-align: justify;
 }
 
 figure.main-image {
