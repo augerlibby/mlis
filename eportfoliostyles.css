@@ -11,6 +11,7 @@ color: DarkOrchid;
 }
 
 article {
+ margin: 0 auto
  max-inline-size: 1200px;
  text-wrap: balance
  text-align: center;
@@ -18,6 +19,7 @@ article {
 }
 
 h1#article-title {
+ margin: 0 auto
  max-inline-size: 1200px;
  text-wrap: balance
  font-size: 28px;
@@ -25,6 +27,7 @@ h1#article-title {
 }
 
 h2#article-title {
+  margin: 0 auto
   max-inline-size: 1200px;
   text-wrap: balance
   font-size: 28px;
@@ -32,6 +35,7 @@ h2#article-title {
 }
 
 h3#article-title {
+  margin: 0 auto
   max-inline-size: 1200px;
   text-wrap: balance
   font-size: 28px;
@@ -41,6 +45,7 @@ h3#article-title {
 <style>
 
 p {
+  margin: 0 auto
   max-inline-size: 1200px;
   text-wrap: balance
   width: 50%;
@@ -60,6 +65,7 @@ p {
 </style>
 
 div {
+  margin: 0 auto
   max-inline-size: 1200px;
   text-wrap: balance
   text-align: center;
