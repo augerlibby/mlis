@@ -1,7 +1,4 @@
 h1#site-title {
-  margin: 0 auto
-  max-inline-size: 800px;
-  text-wrap: balance
   font-size: 48px;
   letter-spacing: -3px;
   margin-top: 0;
@@ -12,32 +9,24 @@ color: DarkOrchid;
 }
 
 article {
- margin: 0 auto
- max-inline-size: 800px;
  text-wrap: balance
  text-align: center;
  margin-left: auto;
 }
 
 h1#article-title {
- margin: 0 auto
- max-inline-size: 800px;
  text-wrap: balance
  font-size: 28px;
  text-align: center;
 }
 
 h2#article-title {
-  margin: 0 auto
-  max-inline-size: 800px;
   text-wrap: balance
   font-size: 28px;
   text-align: center;
 }
 
 h3#article-title {
-  margin: 0 auto
-  max-inline-size: 800px;
   text-wrap: balance
   font-size: 28px;
   text-align: center;
@@ -46,8 +35,6 @@ h3#article-title {
 <style>
 
 p {
-  margin: 0 auto
-  max-inline-size: 800px;
   text-wrap: balance
   width: 50%;
   color: #13174A;
@@ -66,8 +53,6 @@ p {
 </style>
 
 div {
-  margin: 0 auto
-  max-inline-size: 800px;
   text-wrap: balance
   text-align: justify;
 }
