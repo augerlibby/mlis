@@ -4,50 +4,47 @@ h1#site-title {
   margin-top: 0;
   margin-bottom: .125em;
   text-align: center;
-color: DarkOrchid;
+ color: DarkOrchid;
   font-family: Times New Roman;
+  align-items: center;
 }
 
 article {
  text-wrap: balance
  text-align: center;
  margin-left: auto;
+ align-items: center;
 }
 
 h1#article-title {
  text-wrap: balance
  font-size: 28px;
  text-align: center;
+ align-items: center;
 }
 
 h2#article-title {
   text-wrap: balance
   font-size: 28px;
   text-align: center;
+  align-items: center;
 }
 
 h3#article-title {
   text-wrap: balance
   font-size: 28px;
   text-align: center;
+  align-items: center;
 }
 
 <style>
 
 p {
   text-wrap: balance
-  width: 50%;
   color: #13174A;
   font-size: 16px;
   text-align: center;
-  text-align-last:;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
-  padding-left: 75px;
-  padding-right: 75px;
-  float: middle;
+  align-items: center;
 }
 
 </style>
@@ -55,12 +52,14 @@ p {
 div {
   text-wrap: balance
   text-align: justify;
+  align-items: center;
 }
 
 figure.main-image {
   float: middle;
   width: 100%;
   height: auto;
+  align-items: center;
 }
 
 
