@@ -52,11 +52,15 @@ p {
 
 </style>
 
+<style>
 div {
+  width:600px;
+  margin:auto;
   text-wrap: balance
   align-items: center;
   justify-content: center;
 }
+</style>
 
 figure.main-image {
   max-width:50px;
