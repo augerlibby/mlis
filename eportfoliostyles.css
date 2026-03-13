@@ -114,8 +114,6 @@ footer#page-footer {
   justify-content: space-between;
 }
 
-.center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.centered-text {
+  text-align: center;
 }
