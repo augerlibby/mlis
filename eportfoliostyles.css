@@ -1,5 +1,5 @@
 h1#site-title {
-  max-inline-size: 600px;
+  max-inline-size: 1200px;
   text-wrap: balance
   font-size: 48px;
   letter-spacing: -3px;
@@ -11,28 +11,28 @@ color: DarkOrchid;
 }
 
 article {
- max-inline-size: 600px;
+ max-inline-size: 1200px;
  text-wrap: balance
  text-align: center;
  margin-left: auto;
 }
 
 h1#article-title {
- max-inline-size: 600px;
+ max-inline-size: 1200px;
  text-wrap: balance
  font-size: 28px;
  text-align: center;
 }
 
 h2#article-title {
-  max-inline-size: 600px;
+  max-inline-size: 1200px;
   text-wrap: balance
   font-size: 28px;
   text-align: center;
 }
 
 h3#article-title {
-  max-inline-size: 600px;
+  max-inline-size: 1200px;
   text-wrap: balance
   font-size: 28px;
   text-align: center;
@@ -41,7 +41,7 @@ h3#article-title {
 <style>
 
 p {
-  max-inline-size: 600px;
+  max-inline-size: 1200px;
   text-wrap: balance
   width: 50%;
   color: #13174A;
@@ -60,7 +60,7 @@ p {
 </style>
 
 div {
-  max-inline-size: 600px;
+  max-inline-size: 1200px;
   text-wrap: balance
   text-align: center;
 }
