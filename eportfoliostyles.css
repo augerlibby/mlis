@@ -43,8 +43,10 @@ p {
   text-wrap: balance
   color: #13174A;
   font-size: 16px;
-  text-align: center;
-  align-items: center;
+  width:80%;
+  text-align:center;
+  margin: auto;
+  }
 }
 
 </style>
