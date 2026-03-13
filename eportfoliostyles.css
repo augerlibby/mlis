@@ -60,6 +60,7 @@ div {
 figure.main-image {
   max-width:50px;
   height:auto;
+  margin:auto;
 }
 
 
