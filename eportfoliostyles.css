@@ -54,6 +54,7 @@ p {
 
 <style>
 div {
+  display: block;
   width:600px;
   margin:auto;
   text-wrap: balance
