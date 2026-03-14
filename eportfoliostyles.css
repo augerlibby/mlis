@@ -117,8 +117,7 @@ footer#page-footer {
   text-align: center;
   background-color: Thistle;
   text-color: FloralWhite; 
-  position: fixed;
-  bottom: 0;
+  position: bottom;
   display: flex;
   justify-content: space-between;
 }
