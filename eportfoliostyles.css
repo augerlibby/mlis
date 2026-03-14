@@ -110,12 +110,6 @@ nav ul li a:hover {
 
 body {background-color: FloralWhite;}
 
-#homeboxes:after {
-    clear: both;
-    content: "";
-    display: block;
-}
-
 footer#page-footer {
   display: block;
   padding: 12px 0;
@@ -127,7 +121,6 @@ footer#page-footer {
   display: flex;
   justify-content: space-between;
 }
-
 
 .centered-text {
   text-align: center;
