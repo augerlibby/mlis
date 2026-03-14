@@ -125,3 +125,7 @@ footer#page-footer {
 .centered-text {
   text-align: center;
 }
+
+.page{
+    overflow:hidden;
+}
